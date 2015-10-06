@@ -14,6 +14,6 @@ A Hover Car Obstacle Course Game
 # Game Development Info
 This game was developed as an introduction to the Unity3D game engine. It is a modified version of of the Unity ROLL-A-BALL Tutorial found here: <https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial>.
 
-Additional content includes weapons, modified game controls, enemy objects with built-in AI, and games menus.
+Additional content includes weapons, modified game controls, enemy objects with built-in AI, and game menus.
 
 Textures from the Unity Standard Assets were used in the making of this game.
